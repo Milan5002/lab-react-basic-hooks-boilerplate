@@ -1,10 +1,10 @@
 import { useContext,useState} from 'react'
 import './App.css'
-import Counter1 from './components/UseState/counter1'
+import Counter1 from "./components/UseState/Counter1"
 import Counter2 from './components/UseState/Counter2'
 import Counter3 from './components/UseState/Counter3'
 import Counter4 from './components/UseState/Counter4'
-import Effect from './components/Useeffect/Effect'
+import Effect from './components/UseEffect/Effect'
 import ParentContext, { AppContext } from './components/UseContext/ParentContext'
 import Task from './components/Task/Task'
 
